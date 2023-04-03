@@ -11,7 +11,7 @@ h1{
     font-family: 'Playfair Display', serif;
     font-size: 48px;
 }
-h2{
+h3{
     font-family: 'Playfair Display', serif;
     font-size: 36px;
 }
@@ -115,6 +115,10 @@ form{
 .subtitle{
     padding-top: 30px;
     color: #ffffff;
+}
+
+.subtitle h3{
+    font-size: 36px;
 }
 
 .new-disc{
