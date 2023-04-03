@@ -29,3 +29,22 @@ nav ul{
     color: #ffffff;
     float: left;
 }
+
+.nav-con li:hover{
+    font-weight: bold;
+    margin-right: 35px;
+}
+
+.active{
+    font-weight: bold;
+    margin-right: 35px;
+}
+
+.form-con{
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 10%;
+    height: 800px;
+    background-color: lightgray;
+}
