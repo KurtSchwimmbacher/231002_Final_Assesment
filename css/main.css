@@ -84,11 +84,19 @@ form{
     text-align: center;
 }
 
+.logo{
+    margin-top: 20px;
+    height: 70px;
+    width: 70px;
+    border-radius: 35px;
+    border: 2px solid #ffffff;
+    padding-top: 12px;
+    margin: 0 auto;
+}
 
 .logo img{
-    margin-top: 40px;
-    width: 50px;
-    height: 50px;
+    width: 45px;
+    height: 45px;
 }
 
 .title{
